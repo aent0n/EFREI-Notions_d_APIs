@@ -17,3 +17,21 @@ body {
 	animation: gradientAnimation 15s ease infinite;
 }
 
+@keyframes buttonAnimation {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.buttonGradient {
+	background: linear-gradient(270deg, #91eae4,#86a8e7, #feb47b, #ff7e5f);
+	background-size: 800% 800%;
+	animation: buttonAnimation 15s ease infinite;
+}
+
