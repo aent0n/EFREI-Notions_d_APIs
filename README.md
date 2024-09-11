@@ -41,7 +41,7 @@ Le fichier [style.css](exercice%20d'introduction%20aux%20APIs/style.css) contien
 
 ### JavaScript
 
-Le fichier [script.js](exercice%20d'introduction%20aux%20APIs/script.js) contient la logique pour inverser les couleurs du gradient lorsque le bouton est cliqué.
+Le fichier [script.js](exercice%20d'introduction%20aux%20APIs/script.js) contient la logique pour inverser les couleurs du gradient lorsque le bouton est cliqué. <br>
 Le fichier [shady.js](exercice%20d'introduction%20aux%20APIs/shady.js) contient le code récupérant et générant des tableaux avec les informations de navigation disponibles.
 
 ## Auteur
