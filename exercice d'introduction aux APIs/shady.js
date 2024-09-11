@@ -1,12 +1,9 @@
-// a script that collects as much as browser information as possible from the user and stocks it in a table to be displayed later
-
 let tablesVisible = false;
 
 document.getElementById("button2").addEventListener("click", function() {
     let shadyDiv = document.getElementById("shady");
 
     if (tablesVisible) {
-        // Remove all tables if they are already present
         while (shadyDiv.firstChild) {
             shadyDiv.removeChild(shadyDiv.firstChild);
         }
