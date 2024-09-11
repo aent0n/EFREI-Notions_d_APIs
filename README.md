@@ -24,7 +24,7 @@ Le projet est structuré comme suit :
 
 ## Utilisation
 
-1. Ouvrez le fichier `exercice d'introduction API.html` dans un navigateur web.
+1. Ouvrez l'URL (GitHub Page) `https://aent0n.github.io/EFREI-Notions_d_APIs/exercice%20d'introduction%20aux%20APIs/exercice%20d'introduction%20API.html` dans un navigateur web, ou cliquez [ici](https://aent0n.github.io/EFREI-Notions_d_APIs/exercice%20d'introduction%20aux%20APIs/exercice%20d'introduction%20API.html).
 2. Cliquez sur le bouton "Cliquez ici pour inverser les couleurs !" pour voir l'effet d'inversion des couleurs.
 
 ## Détails techniques
