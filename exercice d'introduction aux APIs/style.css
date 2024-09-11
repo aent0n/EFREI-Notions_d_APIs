@@ -35,3 +35,39 @@ body {
 	animation: buttonAnimation 15s ease infinite;
 }
 
+
+button .tooltip-text {
+    visibility: hidden;
+    width: 120px;
+    background-color: linear-gradient(270deg, #91eae4,#86a8e7, #feb47b, #ff7e5f);
+    color: #000000;
+    text-align: center;
+    border-radius: 6px;
+    padding: 2px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: -125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+button .tooltip-text::after {
+    content: "";
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+	rotate: 180deg;
+}
+
+/* Show the tooltip text when you mouse over the button */
+button:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
