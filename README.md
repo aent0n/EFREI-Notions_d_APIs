@@ -1,6 +1,8 @@
 # Introduction aux APIs
 
 Ce projet est une introduction aux APIs avec un exemple simple de manipulation du DOM et de styles CSS dynamiques.
+![image](https://github.com/user-attachments/assets/e114f8af-d0e6-4a9d-971c-71a6d0158bc4)
+
 
 ## Structure du projet
 
