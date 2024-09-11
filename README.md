@@ -9,9 +9,14 @@ Ce projet est une introduction aux APIs avec un exemple simple de manipulation d
 
 Le projet est structuré comme suit :
 ```
+│   README.md
+│
 └───exercice d'introduction aux APIs
+        apiLoader.js
+        ApiPage.html
         exercice d'introduction API.html
         script.js
+        shady.js
         style.css
 ```
 
