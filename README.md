@@ -49,7 +49,7 @@ Le projet est structuré comme suit :
 
 ### HTML
 
-Le fichier [exercice d'introduction API.html](exercice%20d'introduction%20aux%20APIs/exercice%20d'introduction%20API.html) contient la structure de la page et inclut les fichiers CSS et JavaScript nécessaires.
+Le fichier [exercice d'introduction API.html](exercice%20d'introduction%20aux%20APIs/exercice%20d'introduction%20API.html) contient la structure de la page et inclut les fichiers CSS et JavaScript nécessaires. <br>
 Le fichier [ApiPage.html](exercice%20d'introduction%20aux%20APIs/ApiPage.html) contient la structure de la page d'affichage des APIs.
 
 ### CSS
@@ -59,7 +59,7 @@ Le fichier [style.css](exercice%20d'introduction%20aux%20APIs/style.css) contien
 ### JavaScript
 
 Le fichier [script.js](exercice%20d'introduction%20aux%20APIs/script.js) contient la logique pour inverser les couleurs du gradient lorsque le bouton est cliqué. <br>
-Le fichier [shady.js](exercice%20d'introduction%20aux%20APIs/shady.js) contient le code récupérant et générant des tableaux avec les informations de navigation disponibles.
+Le fichier [shady.js](exercice%20d'introduction%20aux%20APIs/shady.js) contient le code récupérant et générant des tableaux avec les informations de navigation disponibles.<br>
 Le fichier [apiLoader.js](exercice%20d'introduction%20aux%20APIs/apiLoader.js) contient les fonctions JS pour chrager le contenu de trois APIs.
 
 ## Auteur
