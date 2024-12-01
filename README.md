@@ -21,7 +21,13 @@ Le projet est structuré comme suit :
 │       style.css
 │
 └───manipulation d'objets et data
-        manip_obj_tables.js
+│       manip_obj_tables.js
+│
+└───REST API Final Task
+        node_modules (to be ignored)
+        index.js
+        package-lock.json
+        package.json
 ```
 ### EXERCICE D'INTRODUCTION AUX APIS:
 - **exercice d'introduction API.html**: Le fichier HTML principal qui contient la structure de la page d'accueil.
@@ -32,7 +38,13 @@ Le projet est structuré comme suit :
 - **ApiPage**: Le fichier HTML principal qui contient la structure de la page d'affichage des APIs.
 
 ### MANIPULATION D'OBJETS ET DE DONNÉES:
-- **manip_obj_tables.js**: l'exercice demandé avec la création et la manipulation de plusieurs objets JS.
+- **manip_obj_tables.js**: L'exercice demandé avec la création et la manipulation de plusieurs objets JS.
+
+### REST API FINAL TASK
+- **node_modules** (to be ignored): Packages Node.js
+- **index.js**: L'exercice demandé avec la création d'une API modeste permettant d'effectuer des requêtes CRUD basiques.
+- **package-lock.json** (to be ignored): Arbre de dépendances automatique de Node.
+- **package.json** (to be ignored): Fichier de configuration JavaScript.
 
 ## Fonctionnalités
 
@@ -42,7 +54,10 @@ Le projet est structuré comme suit :
 - **Chargement des APIs**: Lorsque vous cliquez sur le bouton "API PlayGround" dans la page d'accueil, vous êtes redirigé vers une page qui affiche le contenu de trois APIs différentes (API de l'heure, API de la météo et API de la citation du jour).
 
 ### MANIPULATION D'OBJETS ET DE DONNÉES:
-- **Le script génère des objets et les modifie, tout en les console-loggant dans le terminal.**
+- Le script **génère des objets et les modifie**, tout en les console-loggant dans le terminal.
+
+### REST API FINAL TASK
+- **Création d'une API basique** permettant d'effectuer des **requêtes CRUD** à l'aide de Node.js et Express.js.
 
 ## Utilisation
 
@@ -59,6 +74,11 @@ Le projet est structuré comme suit :
 ### MANIPULATION D'OBJETS ET DE DONNÉES:
 1. Lancez le script avec un interpréteur JS (Node, par exemple).
 2. Observez le résultat.
+
+### REST API FINAL TASK
+1. Lancez le script avec un interpréteur JS (Node, par exemple).
+2. Ouvrez Postman ou tout autre outil permettant d'interragir avec des APIs.
+3. Testez les requêtes possibles.
 
 ## Détails techniques
 
@@ -80,7 +100,10 @@ Le fichier [shady.js](exercice%20d'introduction%20aux%20APIs/shady.js) contient 
 Le fichier [apiLoader.js](exercice%20d'introduction%20aux%20APIs/apiLoader.js) contient les fonctions JS pour chrager le contenu de trois APIs.
 
 ### MANIPULATION D'OBJETS ET DE DONNÉES:
-Le fichier [manip_obj_tables.js](manipulation%20d'objets%20et%20de%20data/manip_obj_tables.js) contient le code créant les objets JS nécessaire pour valider les attendus de l'exercice
+Le fichier [manip_obj_tables.js](manipulation%20d'objets%20et%20de%20data/manip_obj_tables.js) contient le code créant les objets JS nécessaire pour valider les attendus de l'exercice.
+
+### REST API FINAL TASK
+Le fichier [index.js](REST-API-finalTask/index.js) contient le code créant les routes de l'API et le serveur.
 
 ## Auteur
 Ce repo a été réalisé dans le cadre du cours d'introduction aux APIs - Anton ADAM.
