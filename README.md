@@ -26,8 +26,8 @@ Le projet est structuré comme suit :
 └───REST API Final Task
         node_modules (to be ignored)
         index.js
-        package-lock.json
-        package.json
+        package-lock.json (to be ignored)
+        package.json (to be ignored)
 ```
 ### EXERCICE D'INTRODUCTION AUX APIS:
 - **exercice d'introduction API.html**: Le fichier HTML principal qui contient la structure de la page d'accueil.
